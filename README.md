@@ -1,3 +1,5 @@
+# tk-wpash
+
 Alfred Workflow for Hashing Passwords for Wordpress
 ------------------------
 
